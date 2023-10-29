@@ -10,5 +10,5 @@ Rice for awesomeWM
 
 ----------------------------------------------------------
 
-# checkout the repo void-audio to fix the audio problem
+# check the repo void-audio to fix the audio problem
 
